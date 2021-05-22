@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/task10-antd-table/static/css/main.9ef1bcc3.chunk.css",
+    "main.js": "/task10-antd-table/static/js/main.d4e28e19.chunk.js",
+    "main.js.map": "/task10-antd-table/static/js/main.d4e28e19.chunk.js.map",
+    "runtime-main.js": "/task10-antd-table/static/js/runtime-main.9830cbf1.js",
+    "runtime-main.js.map": "/task10-antd-table/static/js/runtime-main.9830cbf1.js.map",
+    "static/css/2.00bb4513.chunk.css": "/task10-antd-table/static/css/2.00bb4513.chunk.css",
+    "static/js/2.eda5cc39.chunk.js": "/task10-antd-table/static/js/2.eda5cc39.chunk.js",
+    "static/js/2.eda5cc39.chunk.js.map": "/task10-antd-table/static/js/2.eda5cc39.chunk.js.map",
+    "static/js/3.e324fb15.chunk.js": "/task10-antd-table/static/js/3.e324fb15.chunk.js",
+    "static/js/3.e324fb15.chunk.js.map": "/task10-antd-table/static/js/3.e324fb15.chunk.js.map",
+    "index.html": "/task10-antd-table/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/task10-antd-table/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.9ef1bcc3.chunk.css.map": "/task10-antd-table/static/css/main.9ef1bcc3.chunk.css.map",
+    "static/js/2.eda5cc39.chunk.js.LICENSE.txt": "/task10-antd-table/static/js/2.eda5cc39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9830cbf1.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.eda5cc39.chunk.js",
+    "static/css/main.9ef1bcc3.chunk.css",
+    "static/js/main.d4e28e19.chunk.js"
+  ]
+}
